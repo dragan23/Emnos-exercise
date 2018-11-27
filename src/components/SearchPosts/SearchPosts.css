@@ -1,0 +1,13 @@
+.searchInputWrapper {
+  padding: 100px 0 50px;
+}
+
+.searchInputWrapper .posts {
+  color: #ffffff;
+  background: rgba(0, 121, 211, 0.95);
+  padding: 20px 15px;
+}
+
+.searchInputWrapper .posts h3 {
+  line-height: 40px;
+}
